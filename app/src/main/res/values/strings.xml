@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SavingMessage</string>
+    <string name="editButton">Edit</string>
+    <string name="useButton">Use</string>
+    <string name="TitleField">Title</string>
+    <string name="PhoneNumberText">Phone #</string>
+    <string name="EnterImage">Enter Image:</string>
+</resources>

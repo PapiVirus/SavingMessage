@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewTextSize">35sp</dimen>
+    <dimen name="useFontSize">9.99sp</dimen>
+    <dimen name="buttonFontSize">8sp</dimen>
+</resources>
